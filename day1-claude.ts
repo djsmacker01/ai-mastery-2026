@@ -19,7 +19,7 @@ async function talkToClaude() {
         messages: [
             {
                 role: 'user',
-                content:'Explain quantum computing in one sentence'
+                content:'Write a haiku about coding'
             }
         ]
 
